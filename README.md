@@ -7,10 +7,8 @@
     <main>
       <h1>Jeremy Guiman</h1>
       <section>
-        <h2>About mes</h2>
-        <!-- TODO: Add link to cat photos -->
+        <h2>About me</h2>
         <p>Cool stuff coming!</p>
-
       </section>
       <section>
         <h2>Professional Life</h2>
