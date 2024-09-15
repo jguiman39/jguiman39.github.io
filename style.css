@@ -1,0 +1,54 @@
+*{
+    padding: auto;
+    margin: auto;
+    }
+    /*
+    header{
+    height: 100px;
+    text-align : center;
+    }  
+
+    header nav ul{
+    display: flex;
+    margin-left: 80%;
+    }
+    
+    header nav ul li{
+    padding-left: 10%;
+    }
+*/
+
+    h1{
+        height: 25vh;
+        text-align: center;
+        padding:100px
+    }
+    
+    section{
+          
+    height: 30vh;
+    border: 5px solid blue;  
+      /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding:100px
+    }
+      
+    .Container{
+    margin-top: 10%
+    }
+    
+    .Container img{
+    height: 300px;
+    }
+    
+    .Container h2{
+    margin-top: 50%;
+    }
+    
+    footer {
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+    }
